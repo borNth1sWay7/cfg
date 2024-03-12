@@ -1,0 +1,94 @@
+1457763072 土区
+1376188686 niko
+1381360140 btw
+1124084862 ❤
+1740240 btw7
+cUMFeRrW密码znxVKDVt
+pjmm15446密码DD4524013
+jugking666
+
+-threads 7 +exec ad.cfg
+
+-noforcemaccel -noforcemspd -noforcemparms -freq 144 -perfectworld -novid -tickrate 128 -preload -processheap +rate 786432 -console 
+-noforcemaccel -noforcemspd -noforcemparms -freq 144 -perfectworld -novid -tickrate 128 -preload -processheap +rate 786432 -nojoy -d3d9ex +zoom_sensitivity_ratio 0.9-console -noforcemaccel -noforcemspd -noforcemparms -freq 144 -perfectworld -novid -tickrate 128 -cl_forthpreload 1 -processheap +rate 786432 -nojoy -d3d9ex -cl_predict 1 -cl_predictweapons 1 -nothreadedsockets -cl_lagcompensation 1
+
+-perfectworld -console -noforcemaccel -noforcemspd -noforcemparms -freq 144 -novid -tickrate 128 -cl_forthpreload 1 -processheap +rate 786432 -nojoy -cl_predict 1 -cl_predictweapons 1 -nothreadedsockets -cl_lagcompensation 1
+
+bind "v""+jump;-attack;-attack2;-jump" 跳投
+r_drawtracers_firstperson 0 压枪
+net_graph 1 FPS
+net_graphproportionalfont 0.5 FPS变为0.5倍大
+
+sv_cheats 1;bot_kick;sv_infinite_ammo 1;mp_startmoney 16000;mp_roundtime_defuse 60;mp_freezetime 5;mp_restartgame 1;mp_buy_anywhere 1;mp_buytime 9999;sv_grenade_trajectory;mp_maxrounds 30；mp_warmup_end
+
+bind -"sv_cheats 1;ammo_grenade_limit_total 6;bot_kick;sv_infinite_ammo 1;mp_startmoney 99999;mp_ignore_round_win_conditions 1;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 9999;mp_restartgame 1;sv_grenade_trajectory 1;mp_maxmoney 99999;sv_showimpacts 2;mp_warmup_end;"
+
+cl_crosshair_sniper_width 5
+bind "\" sv_rethrow_last_grenade
+bind "]" noclip
+logaddress_add 1
+
+host_writeconfig XXX CSGO/cfg
+exec btw2
+r_drawothermodels 2
+
+bind H "use weapon_knife;use weapon_smokegrenade";   烟
+bind CAPSLOCK "use weapon_knife;use weapon_molotov;use weapon_incgrenade"; 火
+bind q "use weapon_knife;use weapon_flashbang";       闪
+bind 按键 "use weapon_knife;use weapon_hegrenade";     雷
+
+CSGO-DcP58-D38GT-Gnfhp-NJRuK-wbdBN 蓝点缩 *
+CSGO-uGDjN-L4aOA-KLBdS-EGmmf-vfrVQ S1 *
+CSGO-k3yQ7-F5aqK-sVKQd-ZUi4K-z26KQ 阿乐
+CSGO-rybGQ-G9qTE-sLQff-i9hLx-XkCcO 标准静态红十字
+CSGO-2iMNz-oTqEB-4miuG-PXUY5-Thj5P ZYWOO
+CSGO-vxovV-ZKpMC-DQZZ9-v6cFE-pnYbD 绿十字
+CSGO-uxj3h-d5ZCW-ctuJk-hyteu-hLN2G IM
+CSGO-dVKyR-BAPn8-bBwPG-iSkkQ-NTivN 绿星缩
+CSGO-Z6dVu-QqUpy-rbkRz-hxSEe-oNGiJ 绿CU缩
+CSGO-yQekP-9aE7y-M65XP-4hX6P-W7T8N 绿点缩
+CSGO-X2Quu-CYs2v-morPB-pmeTh-oNGiJ 黄中缩
+CSGO-FETR5-zbFfc-AjRcL-yDXHB-82kXM 黄粗固
+CSGO-GKF62-DiSft-nm4Ky-spG5o-aK6FP NIKO白
+CSGO-JTH6M-n9STM-r5NBU-YUsjU-4fWjM NIko
+CSGO-OLevc-mDQ5P-7YdGv-4MVFA-sfMwF NIKo灰
+CSGO-Z3o64-Sm7Wu-jvnUb-xbxtY-2mdVG NIko绿
+CSGO-rUjw6-pkYBx-67bos-ppF9P-HLAfD 推斯特zz
+CSGO-XKrP5-WdwQE-F6EYd-MK6Vr-bFPYE 魔法
+CSGO-9nAS7-ddYom-9vcYC-pSsPO-SYVvD RED POINT
+CSGO-jU4eP-8wSj8-EZVsB-HcJZs-iyNQC donk
+CSGO-fAn38-HU2qV-RDnnL-TmUWn-nTkoE niko
+
+
+瓦：1600x0.2
+800x0.4 
+00BFFF天蓝色
+
+forsaken
+0;P;c;5;o;1;d;1;0b;0;1b;0
+白色空心点准星
+0;P;h;0;f;0;0t;4;0l;1;0o;2;0a;1;0f;0;1b;0
+kvk *
+0;P;c;8;u;000000FF;h;0;b;1;f;0;0l;4;0o;0;0a;1;0f;0;1b;0
+niko
+0;s;1;P;u;000000FF;h;0;0l;3;0v;5;0o;1;0a;1;0f;0;1b;0;S;c;4;s;0.6
+精准十字（黑）（动态）
+0;p;0;s;1;P;c;8;u;000000FF;h;0;b;1;f;0;m;1;0l;5;0v;3;0g;1;0o;1;0a;1;0e;0.13;1b;0;A;h;0;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;0;s;0.628;o;1
+黑十左右长 *
+0;c;1;s;1;P;c;8;u;000001FF;h;0;b;1;f;0;0l;5;0v;3;0g;1;0o;0;0a;1;0f;0;1b;0;S;b;1;c;8;t;000000FF;s;0.882;o;1
+demon1 ***
+0;s;1;P;u;000000FF;o;1;d;1;f;0;0b;0;1b;0;S;c;1;o;1
+btw *
+0;P;d;1;f;0;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0
+蓝色十字 *
+0;P;c;5;h;0;0l;3;0o;0;0a;1;0f;0;1b;0
+81hs% *
+0;s;1;P;f;0;m;1;0t;4;0l;1;0o;1;0a;1;0f;0;1o;2;1a;1;1m;0;1f;0
+纯在爆（绿色十字） *
+0;s;1;P;c;1;f;0;m;1;0t;0;0l;0;0o;1;0a;1;0f;0;1t;1;1o;1;1a;1;1m;0;1f;0
+白十字 *
+0;s;1;P;u;0073FFFF;h;0;f;0;0l;5;0v;4;0g;1;0o;2;0a;1;0f;0;1b;0;S;c;0;s;0.5;o;1
+kenny *
+0;P;h;0;f;0;0l;3;0v;2;0o;2;0a;1;0f;0;1b;0
+btw2 ***
+0;s;1;P;h;0;f;0;0l;2;0o;2;0a;1;0f;0;1l;4;1o;1;1a;0.389;1m;0;1f;0;S;c;6;s;0.702;o;1
