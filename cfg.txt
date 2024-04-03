@@ -1,12 +1,3 @@
-1457763072 土区
-1376188686 niko
-1381360140 btw
-1124084862 ❤
-1740240 btw7
-cUMFeRrW密码znxVKDVt
-pjmm15446密码DD4524013
-jugking666
-
 -threads 7 +exec ad.cfg
 
 -noforcemaccel -noforcemspd -noforcemparms -freq 144 -perfectworld -novid -tickrate 128 -preload -processheap +rate 786432 -console 
