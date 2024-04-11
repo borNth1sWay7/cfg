@@ -1,5 +1,14 @@
--threads 7 +exec ad.cfg
+cs2：
+-threads 6 +exec ad.cfg
+4：3 1280x960
+sensitivity 0.75
+m_pitch 0.018000
+m_yaw 0.013667
+双线性
+垂直同步开
 
+
+csgo：
 -noforcemaccel -noforcemspd -noforcemparms -freq 144 -perfectworld -novid -tickrate 128 -preload -processheap +rate 786432 -console 
 -noforcemaccel -noforcemspd -noforcemparms -freq 144 -perfectworld -novid -tickrate 128 -preload -processheap +rate 786432 -nojoy -d3d9ex +zoom_sensitivity_ratio 0.9-console -noforcemaccel -noforcemspd -noforcemparms -freq 144 -perfectworld -novid -tickrate 128 -cl_forthpreload 1 -processheap +rate 786432 -nojoy -d3d9ex -cl_predict 1 -cl_predictweapons 1 -nothreadedsockets -cl_lagcompensation 1
 
@@ -23,10 +32,11 @@ host_writeconfig XXX CSGO/cfg
 exec btw2
 r_drawothermodels 2
 
-bind H "use weapon_knife;use weapon_smokegrenade";   烟
-bind CAPSLOCK "use weapon_knife;use weapon_molotov;use weapon_incgrenade"; 火
-bind q "use weapon_knife;use weapon_flashbang";       闪
-bind 按键 "use weapon_knife;use weapon_hegrenade";     雷
+bind H "use weapon_knife;use weapon_smokegrenade";   #烟
+bind CAPSLOCK "use weapon_knife;use weapon_molotov;use weapon_incgrenade"; #火
+bind q "use weapon_knife;use weapon_flashbang";       #闪
+bind 按键 "use weapon_knife;use weapon_hegrenade";     #雷
+
 
 CSGO-DcP58-D38GT-Gnfhp-NJRuK-wbdBN 蓝点缩 *
 CSGO-uGDjN-L4aOA-KLBdS-EGmmf-vfrVQ S1 *
@@ -50,6 +60,7 @@ CSGO-9nAS7-ddYom-9vcYC-pSsPO-SYVvD RED POINT
 CSGO-jU4eP-8wSj8-EZVsB-HcJZs-iyNQC donk
 CSGO-fAn38-HU2qV-RDnnL-TmUWn-nTkoE niko
 CSGO-CeVsa-CaTAo-FfAfU-FZbX9-AvXsO m0nesy
+CSGO-oZXFi-DY8H6-Yeyxp-HmQTa-f2XDJ cs2 niko
 
 
 瓦：1600x0.2
@@ -84,3 +95,5 @@ kenny *
 0;P;h;0;f;0;0l;3;0v;2;0o;2;0a;1;0f;0;1b;0
 btw2 ***
 0;s;1;P;h;0;f;0;0l;2;0o;2;0a;1;0f;0;1l;4;1o;1;1a;0.389;1m;0;1f;0;S;c;6;s;0.702;o;1
+
+0;s;1;P;u;00BFFFFF;h;0;f;0;0l;2;0o;2;0a;1;0f;0;1l;4;1o;1;1a;0.389;1m;0;1f;0;S;c;6;s;0.702;o;1
