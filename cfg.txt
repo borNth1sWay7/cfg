@@ -1,11 +1,16 @@
 cs2：
 -threads 6 +exec ad.cfg
 4：3 1280x960
-sensitivity 0.78x1600
-m_pitch 0.018000
-m_yaw 0.013667
+sensitivity 0.78x1600	1.05
+m_pitch 0.0165
+m_yaw 0.013
 双线性
 垂直同步开
+
+viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset_z -1.5; viewmodel_presetpos 3; cl_usenewbob false;
+
+CSGO-5a6uW-bVuBz-6RAeV-DVB64-Y6xDK juaNiko
+CSGO-cKQmh-bGkwf-p7TGy-tCVFJ-bow5G point
 
 
 csgo：
