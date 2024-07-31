@@ -1,0 +1,52 @@
+什么？我先避他锋芒？取刀
+狂徒，你以为我杀不了你吗
+哪有小孩天天哭，哪有赌狗天天输
+中国人相信，否极泰来，一场酣畅淋漓的大败，往往是一场大胜的序曲
+日月山和永在，大明江山永存。
+天子守国门，君王死社稷。
+日月不易，永照大明。
+
+
+[url=twitter.com/b0rnth1swayy7]Twitter[/url]
+[url=https://www.hltv.org/player/19230/m0NESY]HLTV[/url]
+[url=https://www.faceit.com/en/players/m0NESY]FACEIT[/url]
+[url=https://www.twitch.tv/m0nesyof]TWITCH[/url]
+[url=https://vk.com/m0nesyoff]VK[/url]
+[url=https://www.instagram.com/m0nesy13/]insta[/url]
+
+cs:go
+-console -novid -noforcemaccel -noforcemspd -noforcemparms -freq 144 +zoom_sensitivity_ratio 0.9 -nojoy -d3d9ex -preload -processheap +rate 786432
+
+viewmodel_fov "65"
+viewmodel_offset_x "2"
+viewmodel_offset_y "1.5"
+viewmodel_offset_z "-1"
+
+STEAM_1:0:40708825
+
+monesy
+https://steamcommunity.com/id/m0NESY-/
+niko
+https://steamcommunity.com/profiles/76561198041683378
+
+
+c24弹物 5升武 a1购
+
+[url=www.twitter.com/b0rnth1swayy7]Twitter[/url]
+[url=https://weibo.com/u/5810018144]WeiBo[/url]
+[url=https://space.bilibili.com/12769904/video]BiliBili[/url]
+[url=www.instagram.com/csgoniko]Ins[/url]
+[url=www.facebook.com/csgoNiKo]FaceBook[/url]
+[url=twitch.tv/NiKo]Twitch[/url]
+
+cs:go ːcsgogunːːcsgocrossː
+
+-console -novid -noforcemaccel -noforcemspd -noforcemparms -freq 144 +zoom_sensitivity_ratio 0.9 -nojoy -d3d9ex -preload -processheap +rate 786432
+
+viewmodel_fov "65"
+viewmodel_offset_x "2"
+viewmodel_offset_y "1.5"
+viewmodel_offset_z "-1"
+
+STEAM_1D:1381360140
+
