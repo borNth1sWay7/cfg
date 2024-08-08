@@ -7,6 +7,10 @@ cUMFeRrW密码znxVKDVt
 pjmm15446密码DD4524013邮箱账号Bjaf07b76@teachtar.cn密码Bjaf07b76邮箱地址http://mail.teachtar.cn/改绑手机号17084945010
 jugking666
 
+修复粘滞
+右键window打开终端管理员
+删除：Get-AppxPackage *gamingservices* -allusers | remove-appxpackage -allusers
+重装：start ms-windows-store://pdp/?productid=9MWPM2CQNLHN
 
 cs2：
 -threads 6 +exec ad.cfg
