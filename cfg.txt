@@ -15,13 +15,22 @@ wgll0420A
 重装：start ms-windows-store://pdp/?productid=9MWPM2CQNLHN
 
 cs2：
--threads 6 +exec ad.cfg
+启动项：
+-high -freq 240 -refresh 240 -noforcemaccel -noforcemparms -fullscreen -language english 
+-console +rate 1000000 +fps_max 0 +fps_max_ui 0 +violence_hblood 0 -processheap 
+-softparticlesdefaultoff -nojoy -forcenovsync +exec ad.cfg
+
 4：3 1280x960
-sensitivity 0.78x1600	1.05
-m_pitch 0.0165
-m_yaw 0.013
-双线性
-垂直同步开
+sensitivity 1.450000
+m_pitch 0.015000
+m_yaw 0.013000
+
+
+快速切枪
+alias +fastswitch "lastinv";
+alias -fastswitch "slot1";
+bind alt +fastswitch
+
 
 fov54
 viewmodel_fov 54; viewmodel_offset_x 2.5; viewmodel_offset_y -2.0; viewmodel_offset_z -2.0; viewmodel_presetpos 0;   
@@ -43,7 +52,9 @@ CSGO-yRWhf-tA2Ti-zbqyB-qJhm8-4knkP btw2	#动态准星
 CSGO-JV6Rw-9sfQB-UzokG-SHqBx-sbK5O dalas monesy
 CSGO-Dsjd3-dCry8-iS9a5-Wpisx-wRQhG dalas niko
 
-
+自带准星移动的修正：
+bind "MOUSE_X" "yaw"
+bind "MOUSE_Y" "pitch"
 
 Weapon_debug_spread_show 1	#修复准星
 
