@@ -51,7 +51,9 @@ CSGO-yRWhf-tA2Ti-zbqyB-qJhm8-4knkP btw2	#动态准星
 
 CSGO-JV6Rw-9sfQB-UzokG-SHqBx-sbK5O dalas monesy
 CSGO-Dsjd3-dCry8-iS9a5-Wpisx-wRQhG dalas niko
-
+CSGO-PXrQ6-MVYi7-JLsnz-9RpWS-fZcNE malbsMb
+CSGO-ASLLC-va7wc-zFpAe-JLOWT-7T8SA zywoo
+ 
 自带准星移动的修正：
 bind "MOUSE_X" "yaw"
 bind "MOUSE_Y" "pitch"
