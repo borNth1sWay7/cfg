@@ -16,9 +16,7 @@ wgll0420A
 
 cs2：
 启动项：
--high -freq 240 -refresh 240 -noforcemaccel -noforcemparms -fullscreen -language english 
--console +rate 1000000 +fps_max 0 +fps_max_ui 0 +violence_hblood 0 -processheap 
--softparticlesdefaultoff -nojoy -forcenovsync +exec ad.cfg
++exec ad.cfg +exec JN92.cfg -noforcemaccel -noforcemspd -noforcemparms -freq 400 -novid -console -d3d9ex -allow_third_party_software 
 
 4：3 1280x960
 sensitivity 1.450000
