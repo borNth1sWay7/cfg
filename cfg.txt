@@ -46,14 +46,20 @@ CSGO-cKQmh-bGkwf-p7TGy-tCVFJ-bow5G point
 CSGO-BxYA4-u8xrB-voGTj-t6Jyr-ruWPA zywoo
 CSGO-TpLLK-EJ5vT-aYEpF-VphTW-k8aYO monesy
 CSGO-ueMDf-bNtmM-ew3Sp-jWUvr-8eaAB donk
+CSGO-LdXHk-hatWX-JjEa8-tuLDN-5tbJD donk2
 CSGO-qtHxB-VuFK2-3bsLG-vEKSR-35nQD btw
 CSGO-yRWhf-tA2Ti-zbqyB-qJhm8-4knkP btw2	#动态准星
+CSGO-yMpmf-qTJT8-qNimo-UrERG-cMwLA btw now
+CSGO-AuBGo-h8EqX-4kNpU-Z2WvZ-8YEBM Niko上海major
 
 CSGO-JV6Rw-9sfQB-UzokG-SHqBx-sbK5O dalas monesy
 CSGO-Dsjd3-dCry8-iS9a5-Wpisx-wRQhG dalas niko
 CSGO-PXrQ6-MVYi7-JLsnz-9RpWS-fZcNE malbsMb
 CSGO-ASLLC-va7wc-zFpAe-JLOWT-7T8SA zywoo
  
+CSGO-hzZ5A-fCrzh-oM824-FZTQd-cV6uC donk major
+
+
 自带准星移动的修正：
 bind "MOUSE_X" "yaw"
 bind "MOUSE_Y" "pitch"
@@ -129,6 +135,7 @@ CSGO-cKQmh-bGkwf-p7TGy-tCVFJ-bow5G point
 800x0.321 
 00BFFF天蓝色
 
+malbs:0;P;c;4;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0
 cxy：0;s;1;P;o;1;d;1;f;0;m;1;0l;2;0o;0;0a;1;0f;0;1b;0;S;c;5
 mini cxy：0;s;1;P;o;1;d;1;z;1;f;0;m;1;0t;1;0l;1;0o;0;0a;1;0f;0;1b;0;S;c;0;s;0.65;o;1
 黑圈：0;s;1;P;o;1;d;1;z;3;a;0;0t;1;0l;1;0o;1;0a;0;0f;0;1b;0
