@@ -31,8 +31,9 @@ cs2：
 +exec ad.cfg +exec JN92.cfg -noforcemaccel -noforcemspd -noforcemparms -freq 400 -novid -console -d3d9ex
 
 4：3 1280x960
+sensitivity 1.496119
 sensitivity 1.450000
-m_pitch 0.015000
+m_pitch 0.018000
 m_yaw 0.013000
 
 
