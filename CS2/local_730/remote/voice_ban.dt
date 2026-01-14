@@ -1,0 +1,191 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	users = 
+	[
+		{
+			flags = 3
+			steamid = 76561199207471561
+		},
+		{
+			flags = 3
+			steamid = 76561199324569521
+		},
+		{
+			flags = 3
+			steamid = 76561199787819045
+		},
+		{
+			flags = 3
+			steamid = 76561199182859282
+		},
+		{
+			flags = 3
+			steamid = 76561199503250923
+		},
+		{
+			flags = 3
+			steamid = 76561199827171809
+		},
+		{
+			flags = 3
+			steamid = 76561199441952094
+		},
+		{
+			flags = 3
+			steamid = 76561199886718191
+		},
+		{
+			flags = 3
+			steamid = 76561199260993799
+		},
+		{
+			flags = 3
+			steamid = 76561198791475435
+		},
+		{
+			flags = 3
+			steamid = 76561199887468708
+		},
+		{
+			flags = 3
+			steamid = 76561198167440964
+		},
+		{
+			flags = 3
+			steamid = 76561199813007327
+		},
+		{
+			flags = 3
+			steamid = 76561199873196895
+		},
+		{
+			flags = 3
+			steamid = 76561199633484150
+		},
+		{
+			flags = 3
+			steamid = 76561199214572688
+		},
+		{
+			flags = 3
+			steamid = 76561199829291216
+		},
+		{
+			flags = 3
+			steamid = 76561199887702421
+		},
+		{
+			flags = 3
+			steamid = 76561199638101433
+		},
+		{
+			flags = 3
+			steamid = 76561199157633787
+		},
+		{
+			flags = 3
+			steamid = 76561199181037942
+		},
+		{
+			flags = 3
+			steamid = 76561198774337295
+		},
+		{
+			flags = 3
+			steamid = 76561198186552751
+		},
+		{
+			flags = 3
+			steamid = 76561199864909938
+		},
+		{
+			flags = 3
+			steamid = 76561199857584092
+		},
+		{
+			flags = 3
+			steamid = 76561199390858655
+		},
+		{
+			flags = 3
+			steamid = 76561199859148928
+		},
+		{
+			flags = 3
+			steamid = 76561199121249981
+		},
+		{
+			flags = 3
+			steamid = 76561199809652775
+		},
+		{
+			flags = 3
+			steamid = 76561199014058063
+		},
+		{
+			flags = 3
+			steamid = 76561199531343798
+		},
+		{
+			flags = 3
+			steamid = 76561199313482463
+		},
+		{
+			flags = 3
+			steamid = 76561198142124758
+		},
+		{
+			flags = 3
+			steamid = 76561199883398629
+		},
+		{
+			flags = 3
+			steamid = 76561199473875643
+		},
+		{
+			flags = 3
+			steamid = 76561199820713504
+		},
+		{
+			flags = 3
+			steamid = 76561199639709594
+		},
+		{
+			flags = 3
+			steamid = 76561199752173645
+		},
+		{
+			flags = 3
+			steamid = 76561199201171186
+		},
+		{
+			flags = 3
+			steamid = 76561199468515501
+		},
+		{
+			flags = 3
+			steamid = 76561199476330077
+		},
+		{
+			flags = 3
+			steamid = 76561199783229543
+		},
+		{
+			flags = 3
+			steamid = 76561199211972414
+		},
+		{
+			flags = 3
+			steamid = 76561199683081472
+		},
+		{
+			flags = 3
+			steamid = 76561199564947992
+		},
+		{
+			flags = 3
+			steamid = 76561198822066364
+		},
+	]
+	player_volume_map = null
+}
